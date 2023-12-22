@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qSuFPF9eTJW+GiOAfqfT7mh1sUxQFQj9QxZ/VO1kpltRX5kjU0EYqUe79TCj3xtn3ooLqw1wIkjTBAmPvDkmPQ==",
+  "dgSpecHash": "0znD6AycWO6lIGoZ04Y02+7CxTJY1YhsoYqFnzy2OoNpZszmn9qPnOVG1MvyIx6GKVEMP5Bkb5KDEr9tOdW81Q==",
   "success": true,
-  "projectFilePath": "C:\\Готовый курсовой проект\\Label_Helper_App\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
+  "projectFilePath": "D:\\Курсовая работа\\Label_Helper_App\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Pozdn\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
