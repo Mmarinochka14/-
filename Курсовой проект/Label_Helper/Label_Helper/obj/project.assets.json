@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Готовый курсовой проект\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
+      "projectUniqueName": "C:\\Готовый курсовой проект\\Label_Helper_App\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
       "projectName": "Label_Helper",
-      "projectPath": "C:\\Готовый курсовой проект\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
+      "projectPath": "C:\\Готовый курсовой проект\\Label_Helper_App\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Готовый курсовой проект\\Курсовой проект\\Label_Helper\\Label_Helper\\obj\\",
+      "outputPath": "C:\\Готовый курсовой проект\\Label_Helper_App\\Курсовой проект\\Label_Helper\\Label_Helper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
