@@ -55,24 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Pozdn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Готовый курсовой проект\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
+      "projectUniqueName": "D:\\Курсовая работа\\Label_Helper_App\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
       "projectName": "Label_Helper",
-      "projectPath": "C:\\Готовый курсовой проект\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Готовый курсовой проект\\Курсовой проект\\Label_Helper\\Label_Helper\\obj\\",
+      "projectPath": "D:\\Курсовая работа\\Label_Helper_App\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
+      "packagesPath": "C:\\Users\\Pozdn\\.nuget\\packages\\",
+      "outputPath": "D:\\Курсовая работа\\Label_Helper_App\\Курсовой проект\\Label_Helper\\Label_Helper\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Pozdn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -80,7 +75,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -123,7 +117,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
