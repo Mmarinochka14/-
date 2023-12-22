@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Готовый курсовой проект\Label_Helper_App\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\
+D:\Курсовая работа\Label_Helper_App\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\
 Label_Helper
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Готовый курсовой проект\Label_Helper_App\Курсовой проект\Label_Helper\Label_Helper\App.xaml
+D:\Курсовая работа\Label_Helper_App\Курсовой проект\Label_Helper\Label_Helper\App.xaml
 13-1177347076
 241002641052
 26-310755543
-204270101558
+204-94696969
 MainWindow.xaml;Styles\Button.xaml;Styles\Image.xaml;Styles\Page.xaml;Styles\Text.xaml;Utilities\DataTemplate.xaml;View\AboutLabels.xaml;View\Albums.xaml;View\Artists.xaml;View\Helps.xaml;View\Home.xaml;View\Ratings.xaml;View\Settings.xaml;
 
 False
